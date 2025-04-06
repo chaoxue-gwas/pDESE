@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="038fb5dd-5b0f-4963-96e8-67f70dc1407a" name="hpc">
+        <fileTransfer rootFolder="/home/xc/local/program/python" accessType="SFTP" host="202.116.105.20" port="22" sshConfigId="e1584f97-e518-4525-be6d-a93a69b7df0c" sshConfig="xc@202.116.105.20:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
